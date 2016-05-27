@@ -1,11 +1,3 @@
-//
-//  Library.swift
-//  shitTunes
-//
-//  Created by John Moody on 4/25/16.
-//  Copyright © 2016 John Moody. All rights reserved.
-//
-
 import Foundation
 import AppKit
 
