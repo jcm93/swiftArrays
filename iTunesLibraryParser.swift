@@ -1,7 +1,7 @@
 import Foundation
 
 class iTunesLibraryParser {
-    let libDict = NSMutableDictionary(contentsOfFile: "/Volumes/Macintosh HD/CS/shittyTunes/shitTunes/shitTunes/iTunes Library.xml")
+    let libDict = NSMutableDictionary(contentsOfFile: "/your/itunes/library.xml")
     let masterArray = NSArray()
     let trackDict = NSDictionary()
     var masterPlaylistDictList = [NSDictionary()]
