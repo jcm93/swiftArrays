@@ -1,11 +1,3 @@
-//
-//  iTunesLibraryParser.swift
-//  shitTunes
-//
-//  Created by John Moody on 4/26/16.
-//  Copyright © 2016 John Moody. All rights reserved.
-//
-
 import Foundation
 
 class iTunesLibraryParser {
