@@ -1,3 +1,3 @@
 # crappyTunes
 
-The five-fold performance difference between sorting arrays of structs and classes in Swift.
+The five-fold performance difference between sorting arrays of structs versus classes in Swift.
