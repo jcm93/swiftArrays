@@ -409,7 +409,7 @@ public func <(fs: NSDate, ss: NSDate) -> Bool {
 }
 
 class iTunesLibraryParser {
-    let libDict = NSMutableDictionary(contentsOfFile: "/Volumes/Macintosh HD/CS/shittyTunes/shitTunes/shitTunes/iTunes Library.xml")
+    let libDict = NSMutableDictionary(contentsOfFile: "/path/to/library.xml")
     let masterArray = NSArray()
     let trackDict = NSDictionary()
     var masterPlaylistDictList = [NSDictionary()]
